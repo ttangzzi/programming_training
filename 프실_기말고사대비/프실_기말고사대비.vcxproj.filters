@@ -21,5 +21,8 @@
     <ClCompile Include="for문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이중for문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

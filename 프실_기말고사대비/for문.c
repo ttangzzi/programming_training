@@ -126,7 +126,6 @@ int main() {
 	}
 	else {
 		int m = sqrt(n);
-		int isPrime = 0;
 		for (int i = 2; i <= m; i++) {
 			if (n % i == 0) {
 				printf("%d is NOT a prime number\n", n);
@@ -170,12 +169,12 @@ int main() {
 }
 */
 
-/* 실습문제 11 : 1인 1닭? */
-chicken(n) {
-	if (n == 0) return 0;
-	else if (n == 1) return 1;
-	else return chicken(n - 2) + chicken(n - 1);
-}
-int main() {
-
-}
+///* 실습문제 11 : 1인 1닭? */
+//chicken(n) {
+//	if (n == 0) return 0;
+//	else if (n == 1) return 1;
+//	else return chicken(n - 2) + chicken(n - 1);
+//}
+//int main() {
+//
+//}
