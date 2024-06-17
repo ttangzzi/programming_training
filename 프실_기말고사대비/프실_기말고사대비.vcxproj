@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="23기말고사.c" />
     <ClCompile Include="for문.c" />
     <ClCompile Include="이중for문.c" />
     <ClCompile Include="입출력.c" />

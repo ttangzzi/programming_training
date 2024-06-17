@@ -24,5 +24,8 @@
     <ClCompile Include="이중for문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23기말고사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
